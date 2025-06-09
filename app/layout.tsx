@@ -5,6 +5,7 @@ import { Inter } from 'next/font/google';
 import Footer from '@/components/Footer';
 import { Analytics } from '@vercel/analytics/react';
 import PlausibleProvider from 'next-plausible';
+import { GoogleAnalytics } from '@next/third-parties/google';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -13,6 +14,9 @@ let description = 'Generate your AI QR Code in seconds';
 let url = 'https://aicuteqr.vercel.app';
 let ogimage = 'https://aicuteqr.vercel.app/og-image.png';
 let sitename = 'aicuteqr.vercel.app';
+
+// TODO: Replace with your Google Analytics measurement ID
+const GA_MEASUREMENT_ID = 'G-L3X3Y3XWEH';
 
 export const metadata: Metadata = {
   metadataBase: new URL(url),
@@ -52,6 +56,7 @@ export default function RootLayout({
         <Navbar />
         <main>{children}</main>
         <Analytics />
+        <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
         <Footer />
       </body>
     </html>

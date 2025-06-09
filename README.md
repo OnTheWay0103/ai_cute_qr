@@ -1,4 +1,4 @@
-<a href="https://qrGPT.io">
+<a href="https://aicuteqr.vercel.app">
   <img alt="QrGPT – Generate beautiful AI QR Codes in seconds." src="/public/og-image.png">
   <h1 align="center">qrGPT</h1>
 </a>

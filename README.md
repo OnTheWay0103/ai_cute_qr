@@ -1,6 +1,6 @@
 <a href="https://aicuteqr.vercel.app">
   <img alt="QrGPT – Generate beautiful AI QR Codes in seconds." src="/public/og-image.png">
-  <h1 align="center">qrGPT</h1>
+  <h1 align="center">AI cute qrCode</h1>
 </a>
 
 <p align="center">

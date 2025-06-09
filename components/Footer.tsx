@@ -7,17 +7,17 @@ const Footer = () => (
         <p className="text-gray-600">
           Created by{' '}
           <a
-            href="https://twitter.com/nutlope"
+            href="https://twitter.com/OnTheWay0103"
             className="hover:underline transition"
           >
-            Hassan
+            OnTheWay0103
           </a>{' '}
           and{' '}
           <a
-            href="https://twitter.com/kevinhou22"
+            href="https://twitter.com/OnTheWay0103"
             className="hover:underline transition"
           >
-            Kevin
+            OnTheWay0103
           </a>
           .
         </p>

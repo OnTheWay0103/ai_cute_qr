@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://codeium.com?repo_name=nutlope%2Fqrgpt">
+  <a href="https://codeium.com?repo_name=OnTheWay0103%2Fai_cute_qr">
     <img src="https://codeium.com/badges/main" alt="Codium" />
   </a>
 </p>
@@ -43,11 +43,15 @@ Note that you'll need to:
 
 ## Authors
 
+Original Authors:
 - Hassan El Mghari ([@nutlope](https://twitter.com/nutlope))
 - Kevin Hou ([@kevinhou22](https://twitter.com/kevinhou22))
 
+Current Maintainer:
+- OnTheWay0103 ([@OnTheWay0103](https://github.com/OnTheWay0103))
+
 ## Credits
 
-- [Codeium](https://codeium.com?repo_name=nutlope%2Fqrgpt) and [v0](https://v0.dev/) for quick prototyping and AI autocomplete
+- [Codeium](https://codeium.com?repo_name=OnTheWay0103%2Fai_cute_qr) and [v0](https://v0.dev/) for quick prototyping and AI autocomplete
 - [Spirals](https://spirals.vercel.app/) for great code patterns and some code (ty Steven)
 - [Lim Zi Yang](https://github.com/ZYLIM0702) for the original AI model

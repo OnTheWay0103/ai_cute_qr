@@ -9,7 +9,7 @@ import { GoogleAnalytics } from '@next/third-parties/google';
 
 const inter = Inter({ subsets: ['latin'] });
 
-let title = 'QrGPT - QR Code Generator';
+let title = 'AIqrCode - QR Code Generator';
 let description = 'Generate your AI QR Code in seconds';
 let url = 'https://aicuteqr.vercel.app';
 let ogimage = 'https://aicuteqr.vercel.app/og-image.png';

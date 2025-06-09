@@ -1,6 +1,6 @@
 <a href="https://aicuteqr.vercel.app">
-  <img alt="QrGPT – Generate beautiful AI QR Codes in seconds." src="/public/og-image.png">
-  <h1 align="center">AI cute qrCode</h1>
+  <img alt="AIqrCode – Generate beautiful AI QR Codes in seconds." src="/public/og-image.png">
+  <h1 align="center">AIqrCode</h1>
 </a>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 You can deploy this template to Vercel with the button below:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.fyi/qrGPT)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.fyi/aiqrcode)
 
 Note that you'll need to:
 

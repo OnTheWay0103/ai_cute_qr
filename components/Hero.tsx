@@ -14,7 +14,7 @@ export default function Hero() {
             Generate your next AI QR Code in seconds
           </h1>
           <p className="max-w-xl mx-auto">
-            QRGPT makes it simple for you to generate cool looking AI QR codes
+            AIqrCode makes it simple for you to generate cool looking AI QR codes
             in seconds, completely for free.
           </p>
           <div className="flex items-center justify-center gap-x-3 font-medium text-sm">
